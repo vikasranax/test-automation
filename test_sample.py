@@ -3,8 +3,8 @@ def add(a, b):
 
 
 def test_add_two_numbers():
-    result = add(2, 3)
-    assert result == 5
+    result = add(7, 3)
+    assert result == 10
 
 
 def test_add_negative_numbers():
